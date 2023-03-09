@@ -1,0 +1,9 @@
+Thorough using CNN, I classify happy and sad image correctly
+Data are all come from internet
+
+To run this model:
+Run image classification.jpynb and finish training 
+then select a random happy/sad img to test the accuracy
+
+This project followed by the instruction:
+https://www.youtube.com/watch?v=jztwpsIzEGc
